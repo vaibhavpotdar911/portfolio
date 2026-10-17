@@ -1,0 +1,80 @@
+[
+  {
+    "id": "app-1",
+    "title": "Nexus Workflow AI",
+    "description": "Autonomous multi-agent orchestration platform for automated system telemetry and prompt workflows.",
+    "url": "https://nexus-ai.dev",
+    "githubUrl": "https://github.com/vaibhavpotdar",
+    "category": "AI & Agents",
+    "status": "Live",
+    "accentColor": "blue",
+    "pinned": true,
+    "launchedAt": "2026",
+    "metrics": "99.9% Uptime · Multi-tenant"
+  },
+  {
+    "id": "app-2",
+    "title": "Pulse Telemetry Engine",
+    "description": "High-throughput real-time metrics aggregator and visual dashboard for distributed microservices.",
+    "url": "https://pulse-telemetry.io",
+    "githubUrl": "https://github.com/vaibhavpotdar",
+    "category": "SaaS & Web",
+    "status": "Live",
+    "accentColor": "purple",
+    "pinned": true,
+    "launchedAt": "2025",
+    "metrics": "Sub-millisecond latency"
+  },
+  {
+    "id": "app-3",
+    "title": "OmniFlow CLI & API Hub",
+    "description": "Developer workspace assistant with instant scaffolding, hot-reloading hooks, and API mock servers.",
+    "url": "https://omniflow.dev",
+    "githubUrl": "https://github.com/vaibhavpotdar",
+    "category": "Dev Tools & APIs",
+    "status": "Active",
+    "accentColor": "cyan",
+    "pinned": false,
+    "launchedAt": "2026",
+    "metrics": "CLI + Web GUI"
+  },
+  {
+    "id": "app-4",
+    "title": "CloudVault Cryptography Tool",
+    "description": "Zero-knowledge browser-based file encryption utility with ephemeral sharing keys.",
+    "url": "https://cloudvault.run",
+    "githubUrl": "https://github.com/vaibhavpotdar",
+    "category": "Utilities",
+    "status": "Live",
+    "accentColor": "emerald",
+    "pinned": false,
+    "launchedAt": "2025",
+    "metrics": "Client-side AES-256"
+  },
+  {
+    "id": "app-5",
+    "title": "Aura Design System Explorer",
+    "description": "Interactive component token laboratory and animated layout playground for modern web interfaces.",
+    "url": "https://aura-design.studio",
+    "githubUrl": "https://github.com/vaibhavpotdar",
+    "category": "SaaS & Web",
+    "status": "Beta",
+    "accentColor": "rose",
+    "pinned": false,
+    "launchedAt": "2026",
+    "metrics": "Figma to Code token sync"
+  },
+  {
+    "id": "app-6",
+    "title": "Synapse Knowledge Graph",
+    "description": "Visual vector database explorer and relational concept mapper with semantic search.",
+    "url": "https://synapse-graph.tech",
+    "githubUrl": "https://github.com/vaibhavpotdar",
+    "category": "AI & Agents",
+    "status": "Active",
+    "accentColor": "amber",
+    "pinned": false,
+    "launchedAt": "2026",
+    "metrics": "Vector Search · RAG"
+  }
+]
